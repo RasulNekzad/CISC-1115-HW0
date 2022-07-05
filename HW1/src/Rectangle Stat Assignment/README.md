@@ -1,0 +1,2 @@
+This code prompts a user to enter values for the width and length of a rectangle and calculates the rectangle's area and perimeter based on those values.
+For example, if a user inputs a width of 5 and a length of 6, the code would display an area of 30 and a perimeter of 22.

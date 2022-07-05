@@ -1,0 +1,2 @@
+This program intakes a radius value and outputs a circumference and an area according to the appropriate formulas.
+For example, if a user inputs a radius value of 5, the program would output a circumference of 31.42 and an area of 78.54.

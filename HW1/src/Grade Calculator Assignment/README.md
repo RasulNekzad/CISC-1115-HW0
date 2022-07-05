@@ -1,0 +1,2 @@
+The purpose of this code is to receive inputs representing grade values for different aspects of class and sum them to calculate the total score for the class. 
+For example, if a student were to input a value 15 for HW, 15 for CodeLab, 20 for Midterm 1, 20 for Midterm 2, and 30 for the final exam, their total score would be 100.
