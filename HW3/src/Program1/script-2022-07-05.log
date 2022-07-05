@@ -1,0 +1,64 @@
+Script started on 2022-07-05 13:35:05-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="140" LINES="13"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[00m$ javac HW3Program1.java && java HW3Program1 [K
+The factorial of 6 is 720.
+The sum of squares is 91.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, ...
+The factorial of 4 is 24.
+The sum of squares is 30.
+Fibonacci sequence: 1, 2, 3, 5, ...
+The factorial of 3 is 6.
+The sum of squares is 14.
+Fibonacci sequence: 1, 2, 3, ...
+The factorial of 13 is 1932053504.
+The sum of squares is 819.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...
+The factorial of 12 is 479001600.
+The sum of squares is 650.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...
+The factorial of 7 is 5040.
+The sum of squares is 140.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, ...
+The factorial of 8 is 40320.
+The sum of squares is 204.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, ...
+The factorial of 9 is 362880.
+The sum of squares is 285.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+The factorial of 11 is 39916800.
+The sum of squares is 506.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+Finished computing.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[00m$ ls
+[0m[01;32mHW3Program1.class[0m  [01;32mHW3Program1.java[0m  [01;32moutput.txt[0m  [01;32mreplay[0m  [01;32msample-integers.txt[0m  [01;32mscript-2022-07-05.log[0m  [01;32mtime-2022-07-05.txt[0m
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[00m$ cat output.txt
+The factorial of 6 is 720.
+The sum of squares is 91.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, ...
+The factorial of 4 is 24.
+The sum of squares is 30.
+Fibonacci sequence: 1, 2, 3, 5, ...
+The factorial of 3 is 6.
+The sum of squares is 14.
+Fibonacci sequence: 1, 2, 3, ...
+The factorial of 13 is 1932053504.
+The sum of squares is 819.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...
+The factorial of 12 is 479001600.
+The sum of squares is 650.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, ...
+The factorial of 7 is 5040.
+The sum of squares is 140.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, ...
+The factorial of 8 is 40320.
+The sum of squares is 204.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, ...
+The factorial of 9 is 362880.
+The sum of squares is 285.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+The factorial of 11 is 39916800.
+The sum of squares is 506.
+Fibonacci sequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program1[00m$ exit
+exit
+
+Script done on 2022-07-05 13:35:28-04:00 [COMMAND_EXIT_CODE="0"]

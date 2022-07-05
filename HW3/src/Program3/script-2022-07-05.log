@@ -1,0 +1,21 @@
+Script started on 2022-07-05 13:42:48-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="140" LINES="13"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[00m$ javac HW3Program3.java && java HW3Program3 
+This record is 32 year(s), 4 month(s), and 11 day(s) old.
+This record is 22 year(s), 11 month(s), and 24 day(s) old.
+This record is 18 year(s), 2 month(s), and 14 day(s) old.
+This record is 22 year(s), 3 month(s), and 16 day(s) old.
+This record is 17 year(s), 5 month(s), and 4 day(s) old.
+This record is 1 year(s), 6 month(s), and 11 day(s) old.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[00m$ ls
+[0m[01;32mHW3Program3.class[0m  [01;32mHW3Program3.java[0m  [01;32mrecords-output.txt[0m  [01;32mrecords.txt[0m  [01;32mscript-2022-07-05.log[0m  [01;32mtime-2022-07-05.txt[0m
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[00m$ cat records-output.txt
+This record is 32 year(s), 4 month(s), and 11 day(s) old.
+This record is 22 year(s), 11 month(s), and 24 day(s) old.
+This record is 18 year(s), 2 month(s), and 14 day(s) old.
+This record is 22 year(s), 3 month(s), and 16 day(s) old.
+This record is 17 year(s), 5 month(s), and 4 day(s) old.
+This record is 1 year(s), 6 month(s), and 11 day(s) old.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program3[00m$ exit
+exit
+
+Script done on 2022-07-05 13:43:09-04:00 [COMMAND_EXIT_CODE="0"]

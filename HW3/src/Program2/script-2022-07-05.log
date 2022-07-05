@@ -1,0 +1,19 @@
+Script started on 2022-07-05 13:37:35-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="140" LINES="13"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[00m$ javac HW3Program2.java && java HW3Program2 [K
+Please choose from either a circle or a rectangle.
+circle
+Please enter the radius of the circle.
+5
+When the radius is 5 the area is 78.54 and the circumference is 31.42.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[00m$ java HW3Program2 [K
+Please choose from either a circle or a rectangle.
+rectangle
+Please enter the width of the rectangle.
+2
+Please enter the length of the rectangle.
+3
+When one side is 2 and the other side is 3, the area is 6 and the perimeter is 10.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW0/HW3/src/Program2[00m$ exit
+exit
+
+Script done on 2022-07-05 13:38:06-04:00 [COMMAND_EXIT_CODE="0"]
