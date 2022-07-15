@@ -1,0 +1,6 @@
+Vehicle,Speed,Time
+Car,35,2
+Train,70,4
+Bicycle,15,3
+Motorcycle,50,5
+Bus,30,6
