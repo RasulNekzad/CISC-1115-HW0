@@ -13,7 +13,7 @@ class Month {
     public Month(int monthNumber) throws MonthNumberException {
 
         // Throws custom MonthNumberException when value is less than 1 or more than 12. 
-        if (monthNumber < 1 | monthNumber > 12) {
+        if (monthNumber < 1 || monthNumber > 12) {
             this.monthNumber = 1;
             throw new MonthNumberException("Not a valid number for month: " + monthNumber);
         } else {
@@ -138,7 +138,7 @@ class MonthDays extends Month {
 
     // Constructor setting the inherited monthNumber variable to inputted month and year variable to inputted year.
     public MonthDays(int month, int year) {
-        monthNumber = month;
+        super(month);
         this.year = year;
     }
 
