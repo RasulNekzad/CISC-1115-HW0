@@ -1,0 +1,111 @@
+Script started on 2022-07-31 14:06:46-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="177" LINES="11"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW7/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW7/src[00m$ javac HW7.java && java HW7
+Current mileage: 1
+Fuel remaining (gallons): 15.00
+Current mileage: 2
+Fuel remaining (gallons): 15.00
+Current mileage: 3
+Fuel remaining (gallons): 15.00
+Current mileage: 4
+Fuel remaining (gallons): 15.00
+Current speed: 15
+Current mileage: 5
+Fuel remaining (gallons): 13.79
+Current mileage: 6
+Fuel remaining (gallons): 13.79
+Current mileage: 7
+Fuel remaining (gallons): 13.79
+Current mileage: 8
+Fuel remaining (gallons): 13.79
+Current mileage: 9
+Fuel remaining (gallons): 13.79
+Current speed: 30
+Current mileage: 10
+Fuel remaining (gallons): 12.62
+Current mileage: 11
+Fuel remaining (gallons): 12.62
+Current mileage: 12
+Fuel remaining (gallons): 12.62
+Current mileage: 13
+Fuel remaining (gallons): 12.62
+Current mileage: 14
+Fuel remaining (gallons): 12.62
+Current speed: 45
+Current mileage: 15
+Fuel remaining (gallons): 11.39
+Current mileage: 16
+Fuel remaining (gallons): 11.39
+Current mileage: 17
+Fuel remaining (gallons): 11.39
+Current mileage: 18
+Fuel remaining (gallons): 11.39
+Current mileage: 19
+Fuel remaining (gallons): 11.39
+Current speed: 60
+Current mileage: 20
+Fuel remaining (gallons): 9.65
+Current mileage: 21
+Fuel remaining (gallons): 9.65
+Current mileage: 22
+Fuel remaining (gallons): 9.65
+Current mileage: 23
+Fuel remaining (gallons): 9.65
+Current mileage: 24
+Fuel remaining (gallons): 7.71
+Current speed: 75
+Current mileage: 25
+Fuel remaining (gallons): 5.75
+Current mileage: 26
+Fuel remaining (gallons): 5.75
+Current mileage: 27
+Fuel remaining (gallons): 5.75
+Current mileage: 28
+Fuel remaining (gallons): 5.75
+Current mileage: 29
+Fuel remaining (gallons): 5.75
+Current speed: 90
+Current mileage: 30
+Fuel remaining (gallons): 4.33
+Current mileage: 31
+Fuel remaining (gallons): 4.33
+Current mileage: 32
+Fuel remaining (gallons): 4.33
+Current mileage: 33
+Fuel remaining (gallons): 4.33
+Current mileage: 34
+Fuel remaining (gallons): 4.33
+Current speed: 105
+Current mileage: 35
+Fuel remaining (gallons): 2.67
+Current mileage: 36
+Fuel remaining (gallons): 2.67
+Current mileage: 37
+Fuel remaining (gallons): 2.67
+Current mileage: 38
+Fuel remaining (gallons): 2.67
+Current mileage: 39
+Fuel remaining (gallons): 2.67
+Current speed: 120
+Current mileage: 40
+Fuel remaining (gallons): 1.61
+Current mileage: 41
+Fuel remaining (gallons): 1.61
+Current mileage: 42
+Fuel remaining (gallons): 1.61
+Current mileage: 43
+Fuel remaining (gallons): 1.61
+Current mileage: 44
+Fuel remaining (gallons): 1.61
+Current speed: 135
+Current mileage: 45
+Fuel remaining (gallons): 0.10
+Current mileage: 46
+Fuel remaining (gallons): 0.10
+Current mileage: 47
+Fuel remaining (gallons): 0.10
+Current mileage: 48
+Fuel remaining (gallons): 0.00
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW7/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW7/src[00m$ exit
+exit
+
+Script done on 2022-07-31 14:07:01-04:00 [COMMAND_EXIT_CODE="0"]
