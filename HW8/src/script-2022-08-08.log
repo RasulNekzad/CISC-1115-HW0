@@ -1,0 +1,29 @@
+Script started on 2022-08-08 18:04:28-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="177" LINES="11"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[00m$ javac HW8Program1.java
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[00m$ java HW8Program1 sample-text1.txt sample-text2.txt sample-text3.txt
+sample-text1.txt contains 164 words.
+sample-text2.txt contains 209 words.
+sample-text3.txt contains 3884 words.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[00m$ javac HW8Program2.java
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[00m$ java HW8Program2
+Welcome to the calculator program, please enter 0 to stop. Enjoy!
+Please enter an expression > 78*
+Please enter a valid expression. (e.g. 7 * 3)
+Please enter an expression > 5*6
+Result: 30.000000
+Please enter 0 to exit program.
+Please enter an expression > 10/5
+Result: 2.000000
+Please enter 0 to exit program.
+Please enter an expression > 1 + 5
+Result: 6.000000
+Please enter 0 to exit program.
+Please enter an expression > 18 - 3
+Result: 15.000000
+Please enter 0 to exit program.
+Please enter an expression > 0
+Entered 0. Exiting program.
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/IdeaProjects/CISC-1115-HW0-8/HW8/src[00m$ exit
+exit
+
+Script done on 2022-08-08 18:05:26-04:00 [COMMAND_EXIT_CODE="0"]
